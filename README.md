@@ -13,6 +13,9 @@
   - Service
   - RecyclerView
   - Constraintlayout
-- Naver Map
+- Naver Cloud API
+  - Map
+  - Clova Chatbot
+  - Colva tts
 - okhttp
 - pusher
